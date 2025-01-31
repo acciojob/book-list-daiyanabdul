@@ -1,5 +1,5 @@
-//your JS code here. If required.
-JS                                                                                                                               document.getElementById("submit").addEventListener("click", function() {
+//your JS code here. If require
+document.getElementById("submit").addEventListener("click", function() {
     let title = document.getElementById("title").value.trim();
     let author = document.getElementById("author").value.trim();
     let isbn = document.getElementById("isbn").value.trim();
